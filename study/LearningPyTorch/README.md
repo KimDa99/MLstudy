@@ -1,6 +1,6 @@
 ## This is place for Learning basic of PyTorch
 
-- [] PyTorch Tutorial
+- []PyTorch Tutorial
   - [] Tensors
   - [] Datasets and DataLoaders
   - [] Transform
