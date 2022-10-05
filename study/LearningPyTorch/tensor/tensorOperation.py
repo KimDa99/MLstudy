@@ -65,6 +65,7 @@ torch.mul(tensor, tensor, out=z3)
 #Single-element tensors : 
 agg = tensor.sum()
 agg_item = agg.item()
+print("Single-Element tensor to a numerical value")
 print(agg_item, type(agg_item))
 
 #in-place operation 
